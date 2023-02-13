@@ -4,16 +4,18 @@
    "id": "eternal.dark-discord",
    "icon": "assets/icon.png",
    "version": "1.0.0",
-   "author": "eternal",
-   "authors": {
+   "author": {
       "name": "eternal",
-      "id": "263689920210534400"
+      "discordID": "263689920210534400"
    },
+   "updater": {
+      "type": "github",
+      "id": "MulverineX/dark-discord"
+    },
    "theme": "src/index.scss",
    "discord": "HQ5N7Rcajc",
    "main": "src/source.css",
    "splash": "src/splash.css",
    "splashTheme": "src/splash.css",
-   "license": "Unlicensed",
-   "consent": false
+   "license": "Unlicensed"
 }
