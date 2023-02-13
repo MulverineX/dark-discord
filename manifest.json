@@ -1,17 +1,18 @@
 {
-   "id": "eternal.dark-discord",
+   "id": "mulverinex.dark-discord",
    "name": "Dark Discord",
    "description": "An actual dark mode for discord.",
    "author": {
-      "name": "eternal",
-      "discordID": "263689920210534400"
+      "name": "MulverineX",
+      "discordID": "178551656714076161",
+      "github": "MulverineX"
    },
    "version": "1.0.1",
    "updater": {
       "type": "github",
-      "id": "MulverineX/dark-discord"
+      "id": "MulverineX/replugged-dark-discord-theme"
     },
    "main": "src/source.css",
    "type": "replugged-theme",
-   "license": "Unlicensed"
+   "license": "MIT"
 }
